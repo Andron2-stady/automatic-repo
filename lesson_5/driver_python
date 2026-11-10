@@ -1,0 +1,4 @@
+def test_name():
+    driver = webdriver.Chrome()
+    ...
+    driver.quit()
